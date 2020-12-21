@@ -6,3 +6,5 @@ This repository is a work in progress between Falzar#4798 and Dimbreath#0424. Ex
 And no, this won't be updated with any early / unreleased client data. We could but we don't want any problems. ~~Also stop believing on every single leak you see out there lol...~~
 
 If you use this it'd be really appreciated if you credited :)
+
+I Need DropTree & DropLeaf data files
